@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛してランデブー",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-26T04:17:37.159585Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛してランデブー (feat. 初音ミク)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_愛してランデブー_(feat._初音ミク)_MIMI.txt"
+    }
+  ]
+}
